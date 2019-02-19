@@ -4,6 +4,7 @@ myshop-online is a online based shopping
 Install Anaconda and Atom .
 Install platformio-ide-terminal in Atom . To do so , settings>install>serach package name > install.
 Install django using cmd : pip install django ==1.8.6 
+Install pillow by cmd : pip install pillow
 Create and activate environment . 
 Open anaconda prompt .
 Then cmd : 
