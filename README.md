@@ -20,7 +20,7 @@ Then cmd :
                          python manage.py runserver
  Then a url will be generated like : http://127.0.0.1:8000/ or http://127.0.0.1:8000 80
  
- If any occur then delete 'paypal.standard.ipn' and 'paypal' from myshop>settings : installed apps
+ If any error then delete 'paypal.standard.ipn' and 'paypal' from myshop>settings : installed apps
                          
   
           
